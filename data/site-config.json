@@ -1,0 +1,19 @@
+{
+  "owner": {
+    "name": "Wilson Udomisor",
+    "title": "Data Scientist translating messy data into measurable outcomes.",
+    "proofLine": "I build reliable ML-ready datasets and ship models with clear monitoring."
+  },
+  "links": {
+    "githubProfile": "https://github.com/WilsonMisor/Data-Science",
+    "resume": "assets/docs/resume.pdf",
+    "linkedin": "https://www.linkedin.com/in/USERNAME/",
+    "email": "wilson.s.udomisor@gmail.com",
+    "whatsappNumber": "2348037945101"
+  },
+  "images": {
+    "homeHeroPhoto": "assets/img/user/wilson1.jpeg",
+    "aboutHeroPhoto": "assets/img/user/wilson2.jpg",
+    "headshot": "assets/img/user/wilson1.jpeg"
+  }
+}
